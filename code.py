@@ -31,9 +31,9 @@ import cv2
 import numpy.random as rng
 
 
-train_folder = "/content/drive/My Drive/data_files/Siamese_num_train"
-val_folder = "/content/drive/My Drive/data_files/Siamese_num_val"
-save_path = '/content/drive/My Drive/data_files/data'
+train_folder = "/content/drive/My Drive/data_folder_one-shot/Siamese_num_train"
+val_folder = "/content/drive/My Drive/data_folder_one-shot/Siamese_num_val"
+save_path = '/content/drive/My Drive/data_folder_one-shot/data'
 
 
 import keras
